@@ -35,6 +35,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-// Credits for Ingredients PAC and POD values from https://github.com/JoernMueller/Ice-Ed/blob/main/IceEd.html by Jörn Müller //
+// Credits for Ingredients values from https://github.com/JoernMueller/Ice-Ed/blob/main/IceEd.html by Jörn Müller //
 
 Developed with NextJS15 by Federico Urpi 
